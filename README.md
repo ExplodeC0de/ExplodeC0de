@@ -1,9 +1,8 @@
 # ExplodeCode
 
-- 👋 Hello, I am ExplodeCode!
-- 🖥️ I’m interested in programming and web-development
-- 💬 My coding Discord server: [https://discord.gg/UVrxXQUKWm ](https://discord.gg/UVrxXQUKWm )
-- 🌱 I’m currently learning JavaScript and full stack web development
+👋 Hello, I am ExplodeCode! I am an advanced python programmer and i'm currently learning JavaScript and full-stack development! Join my coding Discord server: [https://discord.gg/UVrxXQUKWm ](https://discord.gg/UVrxXQUKWm )
+
+I am currently working on [Bob-the-Bot](https://github.com/ExplodeC0de/Bob-the-Bot) which is an open-source discord bot
 
 <a href="https://discord.com/users/<896814282317131848>">
 </a>
