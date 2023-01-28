@@ -1,6 +1,6 @@
 # ExplodeCode
 
-👋 Hello, I am ExplodeCode! I am an advanced python programmer and i'm currently learning JavaScript and full-stack development! Join my coding Discord server: [https://discord.gg/UVrxXQUKWm ](https://discord.gg/UVrxXQUKWm )
+Hello, I am ExplodeCode! I am an advanced python programmer and i'm currently learning JavaScript and full-stack development! Join my coding Discord server: [https://discord.gg/UVrxXQUKWm ](https://discord.gg/UVrxXQUKWm )
 
 I am currently working on [Bob-the-Bot](https://github.com/ExplodeC0de/Bob-the-Bot) which is an open-source discord bot
 
