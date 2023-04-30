@@ -1,6 +1,6 @@
 # ExplodeCode
 
-<img src"https://yt3.googleusercontent.com/dZuMVe7b6er-kmW5BZLXPC8FiEi0LYL7vBAtFFa31EBNgyEvytXPPin5s6L-JQMKnDKn9-yXYw=s176-c-k-c0x00ffffff-no-rj">
+<img src"https://yt3.googleusercontent.com/dZuMVe7b6er-kmW5BZLXPC8FiEi0LYL7vBAtFFa31EBNgyEvytXPPin5s6L-JQMKnDKn9-yXYw=s176-c-k-c0x00ffffff-no-rj"/>
 
 Hello, I am [ExplodeCode](https://www.youtube.com/channel/UCeorKmBztR5GGfdU4451YJQ)! I am 14 and I am an advanced python programmer and i'm currently learning JavaScript and full-stack development! I discovered the power of coding 2 years ago and now I can't escape it! I really enjoy most things involving technology (I never touch grass lol) and I can code for hours and hours, I hope to become a software developer in the future! 
 
