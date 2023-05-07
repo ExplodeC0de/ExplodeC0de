@@ -5,7 +5,7 @@ Hello, I am [ExplodeCode](https://www.youtube.com/channel/UCeorKmBztR5GGfdU4451Y
 
 Join my coding Discord server: [https://discord.gg/UVrxXQUKWm ](https://discord.gg/UVrxXQUKWm )
 
-I am currently working on [Bob-the-Bot](https://github.com/ExplodeC0de/Bob-the-Bot) which is an open-source discord bot
+I am currently working on [Bob-the-Bot](https://github.com/Bob-the-Bot1/Bob-the-Bot) which is an open-source discord bot
 
 ## About me:
 - Founder & Lead Developer of CodeIQ 
