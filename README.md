@@ -7,7 +7,7 @@ Join my coding Discord server: [https://discord.gg/UVrxXQUKWm ](https://discord.
 
 I am currently working on [Bob-the-Bot](https://github.com/ExplodeC0de/Bob-the-Bot) which is an open-source discord bot
 
-##About me:
+## About me:
 - Founder & Lead Developer of CodeIQ 
 - Owner of Bob the Bot
 - YouTuber with 400+ subscribers
