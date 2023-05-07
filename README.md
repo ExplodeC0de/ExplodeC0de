@@ -3,15 +3,16 @@
 
 Hello, I am [ExplodeCode](https://www.youtube.com/channel/UCeorKmBztR5GGfdU4451YJQ)! I am 14 and I am an advanced python programmer and i'm currently learning JavaScript and full-stack development! I discovered the power of coding 2 years ago and now I can't escape it! I really enjoy most things involving technology (I never touch grass lol) and I can code for hours and hours, I hope to become a software developer in the future! 
 
-Join my coding Discord server: [https://discord.gg/UVrxXQUKWm ](https://discord.gg/UVrxXQUKWm )
+Join my coding Discord server: [https://discord.gg/UVrxXQUKWm ](https://discord.gg/UVrxXQUKWm)
 
 I am currently working on [Bob-the-Bot](https://github.com/Bob-the-Bot1/Bob-the-Bot) which is an open-source discord bot
 
 ## About me:
 - Founder & Lead Developer of CodeIQ 
-- Owner of Bob the Bot
+- Owner of [Bob-the-Bot](https://github.com/Bob-the-Bot1/Bob-the-Bot)
 - YouTuber with 400+ subscribers
 - Loves Walks  
+- Good at python
 <a href="https://discord.com/users/<896814282317131848>">
 </a>
 
