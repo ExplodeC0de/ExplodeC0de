@@ -7,6 +7,11 @@ Join my coding Discord server: [https://discord.gg/UVrxXQUKWm ](https://discord.
 
 I am currently working on [Bob-the-Bot](https://github.com/Bob-the-Bot1/Bob-the-Bot) which is an open-source discord bot
 
+```python
+greeting="Hello everyone"
+print(greeting)
+```
+
 ## About me:
 - Founder of CodeIQ 
 - Owner of [Bob-the-Bot](https://github.com/Bob-the-Bot1/Bob-the-Bot)
