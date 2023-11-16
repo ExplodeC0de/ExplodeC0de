@@ -13,9 +13,9 @@ print(greeting)
 ```
 
 ## About me:
-- Founder of CodeIQ 
+- Founder and Development Lead of PyIQ 
 - Owner of [Bob-the-Bot](https://github.com/Bob-the-Bot1/Bob-the-Bot)
-- YouTuber with 400+ subscribers
+- YouTuber with 500+ subscribers
 - Loves Walks  
 - Good at python
 <a href="https://discord.com/users/<896814282317131848>">
