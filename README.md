@@ -5,7 +5,7 @@ Hello, I am [ExplodeCode](https://www.youtube.com/channel/UCeorKmBztR5GGfdU4451Y
 
 Join my coding Discord server: [https://discord.gg/UVrxXQUKWm ](https://discord.gg/UVrxXQUKWm)
 
-I own one of the largest advertising discord server networks on Discord
+I am an owner of the #1 largest advertising discord server networks on Discord
 
 ```python
 greeting="Hello everyone"
