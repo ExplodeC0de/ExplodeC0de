@@ -1,11 +1,11 @@
-# ExplodeCode
+# 👋 | Nice to meet you
 
 
-Hello, I am [ExplodeCode](https://www.youtube.com/channel/UCeorKmBztR5GGfdU4451YJQ)! I am a coder, tech enthusiast and web developer. I discovered the power of coding 2 years ago and now I can't escape it! I really enjoy most things involving technology (I never touch grass lol) and I can code for hours and hours!
+Hello, I am [ExplodeCode](https://www.youtube.com/channel/UCeorKmBztR5GGfdU4451YJQ)! I am a coder, tech enthusiast and web developer. I discovered the power of coding 3 years ago and now I can't escape it! I really enjoy most things involving technology (I never touch grass lol) and I can code for hours and hours!
 
 Join my coding Discord server: [https://discord.gg/UVrxXQUKWm ](https://discord.gg/UVrxXQUKWm)
 
-I am an owner of the #1 largest advertising discord server networks on Discord
+I am an owner of the #1 largest advertising discord server network on Discord called Advertising Network 
 
 ```python
 greeting="Hello everyone"
@@ -13,12 +13,12 @@ print(greeting)
 ```
 
 ## About me:
-- Founder and Head Developer of PyIQ
-- Founder of EC Services (Get cheap discord bots)
-- Owner of [Bob-the-Bot](https://github.com/Bob-the-Bot1/Bob-the-Bot)
-- YouTuber with 500+ subscribers
-- Loves Walks  
-- Good at python
+- `👑`Founder and Head Developer of PyIQ
+- `🤑`Founder of EC Services (Get cheap discord bots)
+- `🤖`Owner of [Bob-the-Bot](https://github.com/Bob-the-Bot1/Bob-the-Bot)
+- `📽️`YouTuber with 500+ subscribers
+- `🚶`Loves Walks  
+- `🐍`Good at python
 <a href="https://discord.com/users/<896814282317131848>">
 </a>
 
