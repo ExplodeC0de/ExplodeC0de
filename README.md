@@ -5,7 +5,7 @@ Hello, I am [ExplodeCode](https://www.youtube.com/channel/UCeorKmBztR5GGfdU4451Y
 
 Join my coding Discord server: [https://discord.gg/UVrxXQUKWm ](https://discord.gg/UVrxXQUKWm)
 
-I am currently working on [Bob-the-Bot](https://github.com/Bob-the-Bot1/Bob-the-Bot) which is an open-source discord bot
+I own one of the largest advertising discord server networks on Discord
 
 ```python
 greeting="Hello everyone"
@@ -13,7 +13,8 @@ print(greeting)
 ```
 
 ## About me:
-- Founder and Development Lead of PyIQ 
+- Founder and Head Developer of PyIQ
+- Founder of EC Services (Get cheap discord bots)
 - Owner of [Bob-the-Bot](https://github.com/Bob-the-Bot1/Bob-the-Bot)
 - YouTuber with 500+ subscribers
 - Loves Walks  
