@@ -8,8 +8,10 @@ Join my coding Discord server: [https://discord.gg/UVrxXQUKWm ](https://discord.
 I am an owner of the #1 largest advertising discord server network on Discord called Advertising Network 
 
 ```python
-greeting="Hello everyone"
-print(greeting)
+explodecode = False # your a visitor right?
+if explodecode != True:
+   greeting="Hello Visitor"
+   print(greeting)
 ```
 
 ## About me:
