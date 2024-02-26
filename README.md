@@ -13,12 +13,12 @@ print(greeting)
 ```
 
 ## About me:
-- `👑`Founder and Head Developer of PyIQ
-- `🤑`Founder of EC Services (Get cheap discord bots)
-- `🤖`Owner of [Bob-the-Bot](https://github.com/Bob-the-Bot1/Bob-the-Bot)
-- `📽️`YouTuber with 500+ subscribers
-- `🚶`Loves Walks  
-- `🐍`Good at python
+- `👑` Founder and Head Developer of PyIQ
+- `🤑` Founder of EC Services (Get cheap discord bots)
+- `🤖` Owner of [Bob-the-Bot](https://github.com/Bob-the-Bot1/Bob-the-Bot)
+- `📽️` YouTuber with 500+ subscribers
+- `🚶` Loves Walks  
+- `🐍` Good at python
 <a href="https://discord.com/users/<896814282317131848>">
 </a>
 
