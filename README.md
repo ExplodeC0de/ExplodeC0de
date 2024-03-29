@@ -12,11 +12,14 @@ explodecode = False # your a visitor right?
 if explodecode != True:
    greeting="Hello Visitor"
    print(greeting)
+else:
+   print("I am ExplodeCode")
 ```
 
 ## About me:
 - `👑` Founder and Head Developer of PyIQ
-- `🤑` Founder of EC Services (Get cheap discord bots)
+- `🤑` Founder of Discord Growth Agency
+- `📈` Founder of #2 largest Advertising Network on discord
 - `🤖` Owner of [Bob-the-Bot](https://github.com/Bob-the-Bot1/Bob-the-Bot)
 - `📽️` YouTuber with 500+ subscribers
 - `🚶` Loves Walks  
